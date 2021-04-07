@@ -20,7 +20,14 @@ namespace BubbleSort
         static void Main(string[] args)
         {
             Program prg = new Program();
-            Console.WriteLine(prg.bubbleSort(new List<int>() { 3, 5, 1, 2 }));
+
+            List<int> nichtSortierteListe = new List<int>() { 3, 5, 1, 2 }; // erzeugen einer unsortierten Liste 
+            List<int> sortierteListe = prg.bubbleSort(nichtSortierteListe); // sortieren der Liste in der Funktion 
+            for (int i = 0; i < sortierteListe.Count; i++)                  // Ausgabe der sortierten Liste
+            {
+                Console.WriteLine(sortierteListe[i]);
+            }
+
             Console.ReadKey();
         }
 
