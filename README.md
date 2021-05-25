@@ -8,7 +8,7 @@ Folgende Schritte sind für die Iplementierung [des Algorithmus](http://www.sort
 2. Vertausche diese, wenn der Wert rechts kleiner ist als der Wert links.
 3. Wenn ein Tausch stattgefunden hatte, dann ist der Array noch nicht sortiert, also mache den Durchlauf noch einmal.
 
-Eine Übersicht über diverse Sortieralgorithmen finden Sie [hier)(http://www.sorting-algorithms.com/). Details zum Bubblesort finden Sie [hier](http://math.hws.edu/eck/jsdemo/sortlab.html). Probieren Sie den Code slbst zu entwickeln.
+Eine Übersicht über diverse Sortieralgorithmen finden Sie [hier](http://www.sorting-algorithms.com/). Details zum Bubblesort finden Sie [hier](http://math.hws.edu/eck/jsdemo/sortlab.html). Probieren Sie den Code slbst zu entwickeln.
 
 ## Objektorientierung (Erweiterung):
 Diese Aufgabe kann auch sehr gut objektorientiert gelöst werden. Eine weitere Erklärung für die Aufgabe finden Sie in der pdf-Präsentation in dem Repository, sowie in dem zusätzlichen erklärenden Video (https://ccs.jade-hs.de/f/228185474).
