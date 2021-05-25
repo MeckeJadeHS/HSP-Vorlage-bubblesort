@@ -3,17 +3,9 @@ Aufgabe BubbleSort für Hochsprachenprogrammierung / Mecke an der Jade Hochschul
 
 Aufgabe: Implementieren Sie den BubbleSort Algorithmus in der Methode "BubbleSort" innerhalb der Klasse "Program" BubbleSort\Program.cs
 
-Folgende Schritte sind für die Iplementierung [des Algorithmus](http://www.sorting-algorithms.com/) notwendig:
-1. Vergleiche nacheinander die Nachbarn in einer Menge (Liste) von Zahlen.
-2. Vertausche diese, wenn der Wert rechts kleiner ist als der Wert links.
-3. Wenn ein Tausch stattgefunden hatte, dann ist der Array noch nicht sortiert, also mache den Durchlauf noch einmal.
 
-Eine Übersicht über diverse Sortieralgorithmen finden Sie [hier](http://www.sorting-algorithms.com/). Details zum Bubblesort finden Sie [hier](http://math.hws.edu/eck/jsdemo/sortlab.html). Probieren Sie den Code slbst zu entwickeln.
+Eine Grafische Anzeige finden Sie [hier](https://www.mathematik.ch/spiele/hanoi_mit_grafik/). 
 
-## Objektorientierung (Erweiterung):
-Diese Aufgabe kann auch sehr gut objektorientiert gelöst werden. Eine weitere Erklärung für die Aufgabe finden Sie in der pdf-Präsentation in dem Repository, sowie in dem zusätzlichen erklärenden Video (https://ccs.jade-hs.de/f/228185474).
-
-Die objektorientierte Lösung ist nicht durch Unittests abgedeckt.
 
 ## Getting Started
 * Clonen Sie die Repository auf Ihren Rechner
