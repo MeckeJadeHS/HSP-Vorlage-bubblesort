@@ -5,9 +5,9 @@ Aufgabe: Implementieren Sie den BubbleSort Algorithmus in der Methode "BubbleSor
 
 Folgende Schritte sind für die Iplementierung [des Algorithmus](https://www.toptal.com/developers/sorting-algorithms) notwendig:
 
-- Vergleiche nacheinander die Nachbarn in einer Menge (Liste) von Zahlen.
-- Vertausche diese, wenn der Wert rechts kleiner ist als der Wert links.
-- Wenn ein Tausch stattgefunden hatte, dann ist der Array noch nicht sortiert, also mache den Durchlauf noch einmal.
+1. Vergleiche nacheinander die Nachbarn in einer Menge (Liste) von Zahlen.
+2.  Vertausche diese, wenn der Wert rechts kleiner ist als der Wert links.
+3.   Wenn ein Tausch stattgefunden hatte, dann ist der Array noch nicht sortiert, also mache den Durchlauf noch einmal.
 
 Eine Übersicht über diverse Sortieralgorithmen finden Sie [hier](https://www.toptal.com/developers/sorting-algorithms). Details zum Bubblesort finden Sie [hier](http://math.hws.edu/eck/jsdemo/sortlab.html). Probieren Sie den Code slbst zu entwickeln.
 
